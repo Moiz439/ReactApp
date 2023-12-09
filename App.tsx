@@ -160,7 +160,7 @@ const styles = StyleSheet.create({
   },
   input: {
     borderWidth: 2,
-    borderColor: "#1e90ff",
+    borderColor: "green",
     borderRadius: 6,
     paddingVertical: 6,
     paddingHorizontal: 16,
@@ -179,7 +179,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
   },
   display:{
-    backgroundColor:"#1e90ff",
+    backgroundColor:"green",
     paddingHorizontal:6,
     paddingVertical:12,
     borderRadius:6,
@@ -200,7 +200,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     marginRight:10,
     textAlign:'center',
-    backgroundColor:"green",
+    backgroundColor:"blue",
     borderRadius:5,
     padding:5
   },
